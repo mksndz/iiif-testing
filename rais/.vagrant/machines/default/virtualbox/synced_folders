@@ -1,0 +1,1 @@
+{"virtualbox":{"/images":{"guestpath":"/images","hostpath":"/home/mk/Projects/iiif-testing/sample_images","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/mk/Projects/iiif-testing/rais","disabled":false,"__vagrantfile":true}}}
